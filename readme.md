@@ -2,7 +2,7 @@
 
 ## "Essential Tools for Mobile Development"
 
-### Fall of 2020
+### Fall of 2021
 
 * * *
 
